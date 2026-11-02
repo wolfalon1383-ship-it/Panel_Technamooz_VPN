@@ -1,6 +1,6 @@
 # Panel Technamooz v1.0.0 Stable
 
-> پنل حرفه‌ای ساخت و مدیریت کانفیگ VLESS/XHTTP، ساخته‌شده توسط **تیم Technamooz** با مدیریت **amirparsa**.
+> پنل حرفه‌ای ساخت و مدیریت کانفیگ VLESS/XHTTP، ساخته‌شده توسط **تیم Technamooz** با مدیریت **masuod**.
 
 ## معرفی
 
